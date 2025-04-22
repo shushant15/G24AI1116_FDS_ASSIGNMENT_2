@@ -18,6 +18,8 @@ The system is structured into five core components:
 
 The pipeline-based architecture processes input data through a MapReduce simulator, where each MapReduce task generates outputs that serve as inputs for subsequent steps. The final outputs are used to create visualizations and perform further analysis.
 
+![G24AI1116_FDS_ASSIGNMENT_2](System_Design.png)
+
 ## Requirements
 
 For a Windows/PyCharm setup, ensure the following:
