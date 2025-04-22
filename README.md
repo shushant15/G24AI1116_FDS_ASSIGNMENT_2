@@ -1,7 +1,5 @@
 # G24AI1116_FDS_ASSIGNMENT_2
 
-# Social Media Analytics MapReduce Workflow
-
 This repository implements a comprehensive MapReduce-based workflow to analyze social media data. The solution processes two datasets: `social_media_logs.txt` and `user_profiles.txt` to derive user behavior patterns, identify trending content, and generate detailed analytics by merging the datasets.
 
 ## Overview of the System
